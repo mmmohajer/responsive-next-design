@@ -1,4 +1,4 @@
-import useDivWidth from "./hooks/useDivWidth";
+import useDivWidth from "../hooks/useDivWidth";
 
 const index = () => {
   const { containerRef, width } = useDivWidth();
